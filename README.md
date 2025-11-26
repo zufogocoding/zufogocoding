@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @zufogocoding
 - 👀 I’m interested in cat
 - 🌱 I’m currently learning how to make something with programing language
+- I currently very optimistic about future at least that what I thought.
 
 <!---
 zufogocoding/zufogocoding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
